@@ -1,9 +1,9 @@
 Aplicação Java - Consulta FIPE API 🚗
 
 Descrição 📖
-```
-Este projeto é uma aplicação Java que consome a FIPE API, permitindo que os usuários consultem informações detalhadas sobre veículos brasileiros. A aplicação facilita a busca por preços, anos de referência e outros detalhes, com base na marca e no modelo escolhidos. O objetivo principal é tornar o processo de avaliação de preços mais simples e confiável, auxiliando na compra e venda de automóveis.
-```
+
+- Este projeto é uma aplicação Java que consome a FIPE API, permitindo que os usuários consultem informações detalhadas sobre veículos brasileiros. A aplicação facilita a busca por preços, anos de referência e outros detalhes, com base na marca e no modelo escolhidos. O objetivo principal é tornar o processo de avaliação de preços mais simples e confiável, auxiliando na compra e venda de automóveis.
+
 
 Tecnologias Utilizadas 🛠️
 
